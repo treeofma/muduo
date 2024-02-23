@@ -12,5 +12,8 @@ IO模型，基于事件驱动和回调实现的多线程网络库，使得将网
 
 1.  cd mymuduo
 2.  sudo ./autobuild.sh (如果autobuild.sh不可执行 chmod +x autobuild.sh 再继续执行)
+3.  项目编译完成 cd example
+4.  make
+5.  ./tcpserver
 
 
